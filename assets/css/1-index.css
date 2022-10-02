@@ -16,7 +16,7 @@ body, h1, h2, h3, h4, h5, h6 {
 
 header.masthead {
   position: relative;
-  background: url("../../assets/img/service_bg_image.jpg") center / cover no-repeat, #00c4ff;
+  background: url("../../assets/img/hero-img.png") center / cover no-repeat, #00c4ff;
   padding-top: 8rem;
   padding-bottom: 8rem;
   height: 100%;
@@ -33,7 +33,7 @@ header.masthead {
 
 header.masthead .overlay {
   position: absolute;
-  background-color: rgba(33,37,41,0.25);
+  background-color: rgb(33,37,41);
   height: 100%;
   width: 100%;
   top: 0;
